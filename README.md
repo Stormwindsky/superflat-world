@@ -1,4 +1,4 @@
-# superflat-world
+# Super Flat World (Luanti Mod)
 for Luanti mod i made
 
 
