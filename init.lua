@@ -1,6 +1,6 @@
--- Superflat World Mod
+-- Superflat World Mod (my own version)
 -- Created by: Stormwindsky
--- License: CC0 1.0 Universal (Public Domain)
+-- License: MIT-0
 
 -- Force map generator to "flat" using the correct API function
 minetest.set_mapgen_setting("mg_name", "flat", true)
